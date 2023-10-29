@@ -4,7 +4,7 @@
 
 origin.py可以使用，不過爬下來是原始檔。
 
-如果不想使用原始檔自己再做分割，那就使用`dounload.py`
+如果不想使用原始檔自己再做分割，那就使用`download.py`
 使用`aiohttp`與`asyncio`打造的非同步網頁爬蟲。
 ![Alt text](image.png)
 
