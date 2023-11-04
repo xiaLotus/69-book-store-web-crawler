@@ -9,7 +9,7 @@ origin.py可以使用，不過爬下來是原始檔。
 ![Alt text](image.png)
 
 目前打算找時間放入機器人內。
-discord server: https://discord.gg/XUA89c4A
+discord server: https://discord.gg/nh4SscAVXQ
 
 更：
 測試結果，程式碼在上面自己可以改改看。
